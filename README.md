@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ilham%20Akbar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Ilham Akbar - Backend & Full-Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ilham%20Akbar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Ilham Akbar - Backend & Full-Stack Developer"/>
 
 <a href="https://github.com/Ilham9675">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9AB7&center=true&vCenter=true&width=620&lines=Java+%26+Spring+Boot+backend+developer;Building+AI-powered+apps+with+Spring+AI+%2B+Gemini;REST+APIs+%E2%80%A2+Databases+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD" alt="Typing intro"/>
