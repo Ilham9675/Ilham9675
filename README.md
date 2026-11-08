@@ -97,6 +97,6 @@
 
 ## 🤝 Let's connect
 
-I'm open to internships and junior backend / full-stack roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ilhamakbar).
+I'm open to junior backend / full-stack roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ilhamakbar).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt=""/>
